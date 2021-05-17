@@ -25,5 +25,5 @@ ran using two different vendors to see how it would handle the responses.
 #### UML / Application Wiring Diagram
 
 12
-![setp1-UML](./UML19.jpg)
+![setp1-UML](UML19.jpg)
 
